@@ -1,0 +1,27 @@
+[
+  {
+    "course_name": "Object Oriented Programming",
+    "course_department": "Computer Science",
+    "course_credits": "3.5"
+  },
+  {
+    "course_name": "Operating Systems",
+    "course_department": "Computer Science",
+    "course_credits": "4"
+  },
+  {
+    "course_name": "Software Process",
+    "course_department": "Software Engineering",
+    "course_credits": "3"
+  },
+  {
+    "course_name": "Principles of Electrical Engineering",
+    "course_department": "Electrical Engineering",
+    "course_credits": "3.5"
+  },
+  {
+    "course_name": "Macroeconomics",
+    "course_department": "Economics",
+    "course_credits": "3"
+  }
+]
