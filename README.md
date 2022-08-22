@@ -1,5 +1,5 @@
 # courseAPI
-University Course API using Node.js, Express and MongoDB
+REST API using Node.js, Express and MongoDB
 
 A course has properties
 - course name
