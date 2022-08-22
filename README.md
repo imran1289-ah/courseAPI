@@ -8,7 +8,7 @@ A course has properties
 
 Make simple CRUD operations such as 
 - Creating a course
-= Read all courses
+- Read all courses
 - Updating a course by ID
 - Deleting a course by ID
 
